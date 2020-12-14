@@ -1,0 +1,10 @@
+.Controls {
+    align-items: flex-start;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 16px 64px;
+}
+
+.Sorters {
+    display: flex;
+}

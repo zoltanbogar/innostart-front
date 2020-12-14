@@ -1,0 +1,33 @@
+.Button {
+	background-color: transparent;
+	border: none;
+	color: white;
+	cursor: pointer;
+	font: inherit;
+	padding: 10px;
+	margin: 10px;
+	font-weight: bold;
+}
+
+.Button:focus {
+	outline: none;
+}
+
+.Button:first-of-type {
+	margin-left: 0;
+	padding-left: 0;
+}
+
+.Success {
+	color: #5C9210;
+}
+
+.Danger {
+	color: #944317;
+}
+
+.Filter {
+	color: #3B3B3B;
+	border-bottom: 4px solid #40A4C8;
+	padding-right: 0;
+}
